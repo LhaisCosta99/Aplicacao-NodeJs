@@ -16,9 +16,8 @@ function input (pergunta){
 } 
 
 while (!propriedades.includes("sair")){
-    input("Digite algo: ").then((resposta)=>{
-        propriedades.push(resposta)
-    })
+    const resposta = await input("Digite algo: ")
+    propriedades.push(resposta)
 }
 
 leitor.close()
