@@ -21,4 +21,6 @@ while (!propriedades.includes("sair")){
 }
 
 leitor.close()
+propriedades.pop()
+propriedades.sort()
 console.log(propriedades)
