@@ -10,7 +10,7 @@ const leitor = readline.createInterface({
 function input (pergunta){
     return new Promise((resolve, reject) => {
         leitor.question(pergunta,(entrada)=>{
-            resolve(entrada)
+            resolve(entrada.toLowerCase())
         })
     })
 } 
