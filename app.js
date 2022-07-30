@@ -14,3 +14,12 @@ function input (pergunta){
         })
     })
 } 
+
+while (!propriedades.includes("sair")){
+    input("Digite algo: ").then((resposta)=>{
+        propriedades.push(resposta)
+    })
+}
+
+leitor.close()
+console.log(propriedades)

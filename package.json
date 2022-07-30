@@ -18,5 +18,6 @@
   "homepage": "https://github.com/LhaisCosta99/Todo7-M4-projeto1#readme",
   "dependencies": {
     "readline": "^1.3.0"
-  }
+  },
+  "type": "module"
 }
