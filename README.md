@@ -1,6 +1,6 @@
 # Todo7--M4-projeto1-
 ## Descrição
-Uma aplicação  que coloca tudo que você escrever em odem alfabetica e com letra mínusculas.<br>
+Uma aplicação feita via terminal, que coloca tudo que você escrever em ordem alfabetica e com letra mínusculas.<br>
 Feito com loop, que só para quando é digitado SAIR. 
 
 ## Como rodar a aplicação?
