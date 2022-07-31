@@ -23,4 +23,7 @@ while (!propriedades.includes("sair")){
 leitor.close()
 propriedades.pop()
 propriedades.sort()
-console.log(propriedades)
+
+propriedades.forEach((propriedade)=>{
+    console.log(propriedade)
+})
