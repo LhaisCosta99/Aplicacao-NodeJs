@@ -16,6 +16,9 @@ Basta rodar o comando abaixo selecionando e copiando o mesmo com as teclas "Ctrl
 ```
  git clone https://github.com/LhaisCosta99/Todo7-M4-projeto1
 ```
+```
+cd Todo7-M4-projeto1
+```
 ## Para intalar as depencias necsesarias .
 ```
 npm install 
