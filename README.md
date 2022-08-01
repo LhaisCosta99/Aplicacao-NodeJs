@@ -5,9 +5,14 @@ Uma aplicação feita via terminal, que coloca tudo que você escrever em ordem 
 Feito com loop, que só para quando é digitado SAIR. 
 
 ## Dependencia utiltada
-``` "readline": "^1.3.0" ```
-## Como rodar a aplicação?
+``` 
+"readline": "^1.3.0" 
+```
 
+## Como rodar a aplicação?
+```
+ git clone https://github.com/LhaisCosta99/Todo7-M4-projeto1
+ ```
 
 ## Exemplos
 
