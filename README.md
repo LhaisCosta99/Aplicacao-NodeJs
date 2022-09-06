@@ -1,5 +1,3 @@
-# Todo7--M4-projeto1-
-
 ## Descrição
 Uma aplicação feita via terminal, que coloca tudo que você escrever em ordem alfabetica e com letra mínusculas.<br>
 Feito com loop, que só para quando é digitado SAIR. 
@@ -14,10 +12,10 @@ Basta rodar o comando abaixo selecionando e copiando o mesmo com as teclas "Ctrl
 
 ## Como rodar a aplicação?
 ```
- git clone https://github.com/LhaisCosta99/Todo7-M4-projeto1
+ git clone https://github.com/LhaisCosta99/Aplicacao-NodeJs
 ```
 ```
-cd Todo7-M4-projeto1
+cd Aplicacao-NodeJs
 ```
 ## Para intalar as depencias necsesarias .
 ```
